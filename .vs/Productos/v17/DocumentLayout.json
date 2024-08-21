@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\negocio\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\negocio\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\negocio\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\negocio\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\negocio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\negocio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\interfaces\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\interfaces\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|c:\\users\\usuario\\onedrive\\escritorio\\programacion\\programacion ii\\ejercicios\\productos\\productos\\productos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36E52E69-FAFE-402B-ADD5-FAD5F4C45262}|Productos\\Productos.csproj|solutionrelative:productos\\productos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Producto.cs",
+              "RelativeDocumentMoniker": "Productos\\Negocio\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Producto.cs",
+              "RelativeToolTip": "Productos\\Negocio\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:35:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Pack.cs",
+              "RelativeDocumentMoniker": "Productos\\Negocio\\Pack.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Pack.cs",
+              "RelativeToolTip": "Productos\\Negocio\\Pack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:31:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Suelto.cs",
+              "RelativeDocumentMoniker": "Productos\\Negocio\\Suelto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Negocio\\Suelto.cs",
+              "RelativeToolTip": "Productos\\Negocio\\Suelto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:31:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Interfaces\\IPrecio.cs",
+              "RelativeDocumentMoniker": "Productos\\Interfaces\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Interfaces\\IPrecio.cs",
+              "RelativeToolTip": "Productos\\Interfaces\\IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:37:27.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productos",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Productos.csproj",
+              "RelativeDocumentMoniker": "Productos\\Productos.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Productos.csproj",
+              "RelativeToolTip": "Productos\\Productos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T16:31:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Productos\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Productos\\Productos\\Program.cs",
+              "RelativeToolTip": "Productos\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:29:32.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

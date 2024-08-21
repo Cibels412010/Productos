@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\bin\Debug\net8.0\Productos.exe
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\bin\Debug\net8.0\Productos.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\bin\Debug\net8.0\Productos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\bin\Debug\net8.0\Productos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\bin\Debug\net8.0\Productos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\refint\Productos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\Productos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Productos\Productos\obj\Debug\net8.0\ref\Productos.dll
